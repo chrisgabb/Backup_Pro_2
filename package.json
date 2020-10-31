@@ -22,6 +22,7 @@
     "moment": "^2.29.1",
     "mysql": "^2.18.1",
     "mysql2": "^1.7.0",
+    "mysql-sequelize-heroku": "1.0.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "sequelize": "^5.22.3"
